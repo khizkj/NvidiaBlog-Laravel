@@ -1,4 +1,4 @@
-# 📰 Nvidia Blog – A Laravel + Tailwind CSS Powered Blog Platform
+# 📰 Nvidia Blog – A Laravel Platform
 
 Welcome to **Nvidia Blog** – a dynamic, fully responsive blog platform built with **Laravel**, **Tailwind CSS**, and **JavaScript**.  
 Designed with a modern, dark Nvidia aesthetic, this project demonstrates advanced UI integration, RESTful API logic, and Blade templating.
