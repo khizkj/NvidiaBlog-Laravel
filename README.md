@@ -4,6 +4,10 @@ Welcome to **Nvidia Blog** – a dynamic, fully responsive blog platform built w
 Designed with a modern, dark Nvidia aesthetic, this project demonstrates advanced UI integration, RESTful API logic, and Blade templating.
 
 ---
+## 🚀 Live Link
+http://nvidiablog.gamer.gd/
+
+---
 
 ## 🚀 Features
 
